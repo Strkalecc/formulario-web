@@ -2,7 +2,7 @@
 
 
 <p align="center">
- ![asuigiasa](https://user-images.githubusercontent.com/75395893/122809970-2c52e900-d2a5-11eb-9465-957a8ff716cd.png)
+ <img src="https://user-images.githubusercontent.com/75395893/122810541-dc285680-d2a5-11eb-8a77-7356064b5b29.png" alt="img" />
 </p>
 
 
