@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚀 Projeto
 
-- Projeto feito para materia WEB DESING
+- Projeto feito para materia WEB-DESING
 ---
 
 
