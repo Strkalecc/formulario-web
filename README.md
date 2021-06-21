@@ -2,8 +2,7 @@
 
 
 <p align="center">
- <img src="![asuigiasa](https://user-images.githubusercontent.com/75395893/122809970-2c52e900-d2a5-11eb-9465-957a8ff716cd.png)
-" alt="img" />
+ ![asuigiasa](https://user-images.githubusercontent.com/75395893/122809970-2c52e900-d2a5-11eb-9465-957a8ff716cd.png)
 </p>
 
 
